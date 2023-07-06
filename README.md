@@ -1,4 +1,6 @@
-# rizka-uas-prakpbk
+# UAS LAB PBK
+# RIZKA RAHMA DEWI
+# 213510496
 
 ## Project setup
 ```
